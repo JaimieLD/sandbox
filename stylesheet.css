@@ -2,8 +2,11 @@ header {
   }
 
 body {
-  margin-left: 20px;
   background-color: lightblue;
+}
+
+text {
+  margin-left: 20px;
 }
 
 h1 {
