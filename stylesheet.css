@@ -36,3 +36,14 @@ h1 {
 p {
   font-size: 18px;
 }
+
+/***** Table Styling *****/
+
+.productdetails, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+.productdetails {
+    width: 40%;
+}
