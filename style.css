@@ -81,6 +81,10 @@ main {
   width: 50%;
 }
 
+.hightlights .list {
+  margin-left: 20px;
+}
+
 .personal .column {
   float: left;
   margin-left: 20px;
