@@ -81,12 +81,15 @@ main {
 }
 
 .personal .column {
-  list-style-type: none;
   float: left;
   margin-left: 20px;
   margin-right: 20px;
   margin-bottom: 20px;
   width: 50%;
+}
+
+.personal .column > ul li {
+  list-style-type:none;
 }
 
 footer {
