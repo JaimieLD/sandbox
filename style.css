@@ -81,7 +81,12 @@ main {
   width: 50%;
 }
 
+.highlights .list {
+  margin-left: 20px;
+}
+
 .personal .column {
+  list-style-type: none;
   float: left;
   margin-left: 20px;
   margin-right: 20px;
