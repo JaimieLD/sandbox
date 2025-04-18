@@ -73,16 +73,12 @@ main {
   flex: 50%;
 }
 
-.higlights .column {
+.highlights .column {
   float: left;
   margin-left: 20px;
   margin-right: 20px;
   margin-bottom: 20px;
   width: 50%;
-}
-
-.hightlights .list {
-  margin-left: 20px;
 }
 
 .personal .column {
